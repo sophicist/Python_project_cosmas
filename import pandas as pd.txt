@@ -1,0 +1,7 @@
+import pandas as pd
+import os
+import datetime
+import numpy as np
+from tabula.io import read_pdf 
+import PyPDF2 
+os.chdir("D:\L-IFT\Python_project_cosmas\Transactions")
